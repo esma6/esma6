@@ -5,7 +5,6 @@
 
 I am an undergraduate student of computer engineering. I am a compatible team player and a good researcher. I am constantly trying to learn new things and improve myself. I like to follow the latest technology and watch innovation.
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning .NET Core, React.js, C#
 -👀 I’m interested in Backend and Frontend
 - 📫 How to reach me: esmakaragulle25@gmail.com
