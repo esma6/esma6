@@ -8,7 +8,7 @@ I am an undergraduate student of computer engineering. I am a compatible team pl
 - 👀 I’m interested in Backend and Frontend 
 - 📫 How to reach me: esmakaragulle25@gmail.com
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=esma6&show_icons=true&theme=radical)
+
 -  # 🔨 Technologies & Tools
  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
