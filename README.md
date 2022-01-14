@@ -35,6 +35,6 @@ I am an undergraduate student of computer engineering. I am a compatible team pl
 <img src="https://img.shields.io/badge/Apache Netbeans IDE-6DB33F?style=for-the-badge&logo=apachenetbeanside&logoColor=white"></img>
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=esma6&langs_count=9&theme=tokyonight)]()
+
 
 
