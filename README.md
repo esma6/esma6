@@ -7,6 +7,25 @@ I am an undergraduate student of computer engineering. I am a compatible team pl
 - 🌱 I’m currently learning .NET Core, React.js, Angular, Java
 - 👀 I’m interested in Backend and Frontend 
 - 📫 How to reach me: esmakaragulle25@gmail.com
+ <!--Statistics-->
+<div align="center">
+  <div align="center">
+
+  </div>
+
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=esma6&show_icons=true&theme=radical" />
+</div>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=esma6&theme=radical&date_format=j%20M%5B%20Y%5D" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esma6&layout=compact&theme=radical" />
+</a>
+</div>
+
+<hr />
 
 
 -  # 🔨 Technologies & Tools
