@@ -2,7 +2,7 @@
 
 
 
-I am an undergraduate student of computer engineering. I am a compatible team player and a good researcher. I am constantly trying to learn new things and improve myself. I like to follow the latest technology and watch innovation.
+I am a computer engineering graduate. I am currently a software engineering graduate student at Atatürk University. I am a cohesive team player and a good researcher. I am constantly trying to learn new things and improve myself. I like to follow current technology and bring it to life.
 
 - 🌱 I’m currently learning .NET Core, React.js, Angular, Java
 - 👀 I’m interested in Backend and Frontend 
