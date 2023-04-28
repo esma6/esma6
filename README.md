@@ -30,7 +30,9 @@ I am a computer engineering graduate. I am currently a software engineering grad
 
 -  # 🔨 Technologies & Tools
  
+
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=blue"></img>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-239120?style=for-the-badge&logo=javascript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -52,6 +54,9 @@ I am a computer engineering graduate. I am currently a software engineering grad
 <img src="https://img.shields.io/badge/Visual Studio-239120?style=for-the-badge&logo=visualstudio&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Apache Netbeans IDE-6DB33F?style=for-the-badge&logo=apachenetbeanside&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Google Colab-6DB33F?style=for-the-badge&logo=googlecolab&logoColor=yellow"></img>
+
+
 
 
 
