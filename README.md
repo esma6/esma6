@@ -1,11 +1,10 @@
 ### Hi there I'm Esma 👋
 
 
-
-I am a computer engineering graduate. I am currently a software engineering graduate student at Atatürk University. I am a cohesive team player and a good researcher. I am constantly trying to learn new things and improve myself. I like to follow current technology and bring it to life.
+I constantly strive to learn new things and improve myself. I enjoy keeping up with current technologies and implementing them.
 
 - 🌱 I’m currently learning CNN and Image Processing
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Deep Learning Technologies
 - 📫 How to reach me: esmakaragulle25@gmail.com
  <!--Statistics-->
 <div align="center">
